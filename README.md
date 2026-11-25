@@ -11,7 +11,7 @@ A floating orb above the composer in DeepSeek Harness Web. It shows the current 
 ## Install
 
 ```bash
-dsh plugin --profile web add link:/path/to/context-orb
+dsh plugin --profile web add link:/path/to/dsh-context-orb
 ```
 
 Then enable the **Context orb** bundle on the Plugins page.
