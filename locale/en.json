@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Context orb",
+    "description": "A floating orb over the composer shows the current session's context window as a green wave. Click for the breakdown, double-click to compact."
+  }
+}

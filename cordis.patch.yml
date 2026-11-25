@@ -1,0 +1,4 @@
+# Bundle row for the context orb; the browser half needs no configuration.
+- insert:
+    - id: context-orb
+      name: '@xiaozou-wine/context-orb'
