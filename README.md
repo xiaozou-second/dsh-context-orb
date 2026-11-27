@@ -10,11 +10,16 @@ A floating orb above the composer in DeepSeek Harness Web. It shows the current 
 
 ## Install
 
-```bash
-dsh plugin --profile web add link:/path/to/dsh-context-orb
-```
+The package is published as **`@xiaozou-wine/context-orb`**.
 
-Then enable the **Context orb** bundle on the Plugins page.
+From the Web GUI: **Plugins → Add plugin**, enter
+`@xiaozou-wine/context-orb`, then enable the bundle.
+
+From a terminal:
+
+```bash
+dsh plugin --profile web add @xiaozou-wine/context-orb
+```
 
 To add the row by hand in the profile's `cordis.patch.yml`:
 
